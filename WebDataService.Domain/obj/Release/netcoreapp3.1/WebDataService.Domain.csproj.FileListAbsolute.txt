@@ -1,0 +1,12 @@
+D:\SOURCE\WebDataService\WebDataService.Domain\bin\Release\netcoreapp3.1\WebDataService.Domain.deps.json
+D:\SOURCE\WebDataService\WebDataService.Domain\bin\Release\netcoreapp3.1\WebDataService.Domain.runtimeconfig.json
+D:\SOURCE\WebDataService\WebDataService.Domain\bin\Release\netcoreapp3.1\WebDataService.Domain.runtimeconfig.dev.json
+D:\SOURCE\WebDataService\WebDataService.Domain\bin\Release\netcoreapp3.1\WebDataService.Domain.dll
+D:\SOURCE\WebDataService\WebDataService.Domain\bin\Release\netcoreapp3.1\WebDataService.Domain.pdb
+D:\SOURCE\WebDataService\WebDataService.Domain\obj\Release\netcoreapp3.1\WebDataService.Domain.csprojAssemblyReference.cache
+D:\SOURCE\WebDataService\WebDataService.Domain\obj\Release\netcoreapp3.1\WebDataService.Domain.csproj.CoreCompileInputs.cache
+D:\SOURCE\WebDataService\WebDataService.Domain\obj\Release\netcoreapp3.1\WebDataService.Domain.AssemblyInfoInputs.cache
+D:\SOURCE\WebDataService\WebDataService.Domain\obj\Release\netcoreapp3.1\WebDataService.Domain.AssemblyInfo.cs
+D:\SOURCE\WebDataService\WebDataService.Domain\obj\Release\netcoreapp3.1\WebDataService.Domain.dll
+D:\SOURCE\WebDataService\WebDataService.Domain\obj\Release\netcoreapp3.1\WebDataService.Domain.pdb
+D:\SOURCE\WebDataService\WebDataService.Domain\obj\Release\netcoreapp3.1\WebDataService.Domain.genruntimeconfig.cache

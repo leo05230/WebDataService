@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebDataService.DataLayer\WebDataService.DataLayer.csproj" />
+    <ProjectReference Include="..\WebDataService.Domain\WebDataService.Domain.csproj" />
+    <ProjectReference Include="..\WebDataService.Shared\WebDataService.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

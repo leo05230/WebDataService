@@ -1,0 +1,353 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SOURCE\\WebDataService\\WebDataService.WebService\\WebDataService.csproj": {}
+  },
+  "projects": {
+    "D:\\SOURCE\\WebDataService\\WebDataService.BusinessLayer\\WebDataService.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SOURCE\\WebDataService\\WebDataService.BusinessLayer\\WebDataService.BusinessLayer.csproj",
+        "projectName": "WebDataService.BusinessLayer",
+        "projectPath": "D:\\SOURCE\\WebDataService\\WebDataService.BusinessLayer\\WebDataService.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Leo.Chen\\.nuget\\packages\\",
+        "outputPath": "D:\\SOURCE\\WebDataService\\WebDataService.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Leo.Chen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\SOURCE\\WebDataService\\WebDataService.DataLayer\\WebDataService.DataLayer.csproj": {
+                "projectPath": "D:\\SOURCE\\WebDataService\\WebDataService.DataLayer\\WebDataService.DataLayer.csproj"
+              },
+              "D:\\SOURCE\\WebDataService\\WebDataService.Domain\\WebDataService.Domain.csproj": {
+                "projectPath": "D:\\SOURCE\\WebDataService\\WebDataService.Domain\\WebDataService.Domain.csproj"
+              },
+              "D:\\SOURCE\\WebDataService\\WebDataService.Shared\\WebDataService.Shared.csproj": {
+                "projectPath": "D:\\SOURCE\\WebDataService\\WebDataService.Shared\\WebDataService.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SOURCE\\WebDataService\\WebDataService.DataLayer\\WebDataService.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SOURCE\\WebDataService\\WebDataService.DataLayer\\WebDataService.DataLayer.csproj",
+        "projectName": "WebDataService.DataLayer",
+        "projectPath": "D:\\SOURCE\\WebDataService\\WebDataService.DataLayer\\WebDataService.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Leo.Chen\\.nuget\\packages\\",
+        "outputPath": "D:\\SOURCE\\WebDataService\\WebDataService.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Leo.Chen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\SOURCE\\WebDataService\\WebDataService.Domain\\WebDataService.Domain.csproj": {
+                "projectPath": "D:\\SOURCE\\WebDataService\\WebDataService.Domain\\WebDataService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SOURCE\\WebDataService\\WebDataService.Domain\\WebDataService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SOURCE\\WebDataService\\WebDataService.Domain\\WebDataService.Domain.csproj",
+        "projectName": "WebDataService.Domain",
+        "projectPath": "D:\\SOURCE\\WebDataService\\WebDataService.Domain\\WebDataService.Domain.csproj",
+        "packagesPath": "C:\\Users\\Leo.Chen\\.nuget\\packages\\",
+        "outputPath": "D:\\SOURCE\\WebDataService\\WebDataService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Leo.Chen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SOURCE\\WebDataService\\WebDataService.Shared\\WebDataService.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SOURCE\\WebDataService\\WebDataService.Shared\\WebDataService.Shared.csproj",
+        "projectName": "WebDataService.Shared",
+        "projectPath": "D:\\SOURCE\\WebDataService\\WebDataService.Shared\\WebDataService.Shared.csproj",
+        "packagesPath": "C:\\Users\\Leo.Chen\\.nuget\\packages\\",
+        "outputPath": "D:\\SOURCE\\WebDataService\\WebDataService.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Leo.Chen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\SOURCE\\WebDataService\\WebDataService.Domain\\WebDataService.Domain.csproj": {
+                "projectPath": "D:\\SOURCE\\WebDataService\\WebDataService.Domain\\WebDataService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SOURCE\\WebDataService\\WebDataService.WebService\\WebDataService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SOURCE\\WebDataService\\WebDataService.WebService\\WebDataService.csproj",
+        "projectName": "WebDataService",
+        "projectPath": "D:\\SOURCE\\WebDataService\\WebDataService.WebService\\WebDataService.csproj",
+        "packagesPath": "C:\\Users\\Leo.Chen\\.nuget\\packages\\",
+        "outputPath": "D:\\SOURCE\\WebDataService\\WebDataService.WebService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Leo.Chen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\SOURCE\\WebDataService\\WebDataService.BusinessLayer\\WebDataService.BusinessLayer.csproj": {
+                "projectPath": "D:\\SOURCE\\WebDataService\\WebDataService.BusinessLayer\\WebDataService.BusinessLayer.csproj"
+              },
+              "D:\\SOURCE\\WebDataService\\WebDataService.Domain\\WebDataService.Domain.csproj": {
+                "projectPath": "D:\\SOURCE\\WebDataService\\WebDataService.Domain\\WebDataService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

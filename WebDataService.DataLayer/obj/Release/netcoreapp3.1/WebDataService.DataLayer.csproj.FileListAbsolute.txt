@@ -1,0 +1,12 @@
+D:\SOURCE\WebDataService\WebDataService.DataLayer\bin\Release\netcoreapp3.1\WebDataService.DataLayer.deps.json
+D:\SOURCE\WebDataService\WebDataService.DataLayer\bin\Release\netcoreapp3.1\WebDataService.DataLayer.dll
+D:\SOURCE\WebDataService\WebDataService.DataLayer\bin\Release\netcoreapp3.1\WebDataService.DataLayer.pdb
+D:\SOURCE\WebDataService\WebDataService.DataLayer\bin\Release\netcoreapp3.1\WebDataService.Domain.dll
+D:\SOURCE\WebDataService\WebDataService.DataLayer\bin\Release\netcoreapp3.1\WebDataService.Domain.pdb
+D:\SOURCE\WebDataService\WebDataService.DataLayer\obj\Release\netcoreapp3.1\WebDataService.DataLayer.csprojAssemblyReference.cache
+D:\SOURCE\WebDataService\WebDataService.DataLayer\obj\Release\netcoreapp3.1\WebDataService.DataLayer.csproj.CoreCompileInputs.cache
+D:\SOURCE\WebDataService\WebDataService.DataLayer\obj\Release\netcoreapp3.1\WebDataService.DataLayer.AssemblyInfoInputs.cache
+D:\SOURCE\WebDataService\WebDataService.DataLayer\obj\Release\netcoreapp3.1\WebDataService.DataLayer.AssemblyInfo.cs
+D:\SOURCE\WebDataService\WebDataService.DataLayer\obj\Release\netcoreapp3.1\WebDataService.DataLayer.csproj.CopyComplete
+D:\SOURCE\WebDataService\WebDataService.DataLayer\obj\Release\netcoreapp3.1\WebDataService.DataLayer.dll
+D:\SOURCE\WebDataService\WebDataService.DataLayer\obj\Release\netcoreapp3.1\WebDataService.DataLayer.pdb
